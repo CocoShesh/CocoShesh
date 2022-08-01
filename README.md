@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/CocoShesh"><img src="https://api.daily.dev/devcards/80ff0aa15b3243139113a1f2ade73912.png?r=xdf" width="400" alt="Glenard's Dev Card"/></a>
 <!--
 **CocoShesh/CocoShesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://app.daily.dev/CocoShesh
-"><img src="https://api.daily.dev/devcards/80ff0aa15b3243139113a1f2ade73912.png?r=xdf
-" width="400" alt="Glenard's Dev Card"/></a>
