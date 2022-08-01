@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/CocoShesh
+"><img src="https://api.daily.dev/devcards/80ff0aa15b3243139113a1f2ade73912.png?r=xdf
+" width="400" alt="Glenard's Dev Card"/></a>
