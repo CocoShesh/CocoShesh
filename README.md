@@ -21,4 +21,8 @@ At the moment, I'm studying "HTML, CSS, and JavaScript."
 ---
 [![](https://visitcount.itsvg.in/api?id=CocoShesh&icon=2&color=1)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=CocoShesh&label=11701&color=1&icon=0&pretty=false" />
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
