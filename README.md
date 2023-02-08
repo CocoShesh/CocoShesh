@@ -1,5 +1,5 @@
 # 💫 About Me:
-At the moment, I'm studying "HTML, CSS, and JavaScript."
+At the moment, I'm studying CSS,JavaScript, Python"
 
 
 ## 🌐 Socials:
