@@ -5,7 +5,7 @@ Hi! My name is Glenard Glenn R. Becerro 😄
 <br/>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vscode,vite,git,github,bitbucket,netlify,nodejs,express,mongodb,npm,py,regex,postman,cpp,discord)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vscode,vite,git,github,bitbucket,netlify,nodejs,express,mongodb,npm,py,regex,postman,cpp,discord)
 <br/>
 
 
