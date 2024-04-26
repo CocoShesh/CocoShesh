@@ -1,4 +1,4 @@
-Hi! My name is Glenard Glenn R. Becerro 😄
+Hi! My name is Glenard Glenn R. Becerro 👋
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer.
